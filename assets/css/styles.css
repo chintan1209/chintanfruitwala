@@ -1059,7 +1059,8 @@ img{
     .qualification__data{
         gap: .5rem;
     }
-    .services__container{
+    
+    {
         grid-template-columns: max-content;
         justify-content: center;
     }
@@ -1290,7 +1291,7 @@ img{
         transform: translateX(-6rem);
     }
     .services__container{
-        grid-template-columns: repeat(3, 238px);
+        grid-template-columns: repeat(2, 238px);
     }
     .portfolio__content{
         column-gap: 5rem;
