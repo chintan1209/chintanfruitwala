@@ -1188,8 +1188,8 @@ img{
         column-gap: 5rem;
     }
     .about__img{
-        width: 250px;
-    }
+        width: 219px;
+        margin-top: -19px;    }
     .about__description{
         text-align: initial;
     }
